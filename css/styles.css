@@ -1,4 +1,4 @@
-ody {
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -166,19 +166,19 @@ ody {
   }
   
   .card:first-child {
-    background-color: rgb(213, 0, 0);
+    background-color: rgb(0, 172, 238);
   }
   
   .card:nth-child(2) {
-    background-color: rgb(46, 125, 50);
+    background-color: rgb(129, 52, 175);
   }
   
   .card:nth-child(3) {
-    background-color: rgb(255, 111, 0);
+    background-color: rgb(66, 103, 178);
   }
   
   .card:nth-child(4) {
-    background-color: rgb(29, 38, 154);
+    background-color: rgb(255, 0, 0);
   }
   
   .card-inner {
@@ -242,7 +242,11 @@ ody {
   }
   
   .product-icon > .bi {
-    font-size: 25px;
+    font-size: 30px;
+  }
+
+  .bi-none {
+    background-color: transparent !important;
   }
   
   /* ---------- MEDIA QUERIES ---------- */
