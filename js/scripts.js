@@ -24,10 +24,10 @@ function drawChart() {
 
 // Set Data
 const data = google.visualization.arrayToDataTable([
-  ['Price', 'Size'],
-  [50,7],[60,8],[70,8],[80,9],[90,9],
-  [100,9],[110,10],[120,11],
-  [130,14],[140,14],[150,15]
+  ['Date', 'Follower Count'],
+  [1,176],[2,178],[3,182],[4,184],[5,192],
+  [6,192],[7,193],[8,194],
+  [9,194],[10,195],[11,197]
 ]);
 
 // Set Options
