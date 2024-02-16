@@ -22,7 +22,25 @@ body {
   }
   
   .background-blue {
-    background-color: rgb(29, 38, 154);
+    background-color: rgb(66, 103, 178);
+  }
+
+  .background-light-blue {
+    background-color: rgb(0, 172, 238);
+  }
+
+  .background-purple {
+    background-color: rgb(129, 52, 175);
+  }
+
+  .text-purple {
+    color: rgb(129, 52, 175);
+
+  }
+
+  .text-light-blue {
+    color: rgb(0, 172, 238);
+
   }
   
   .text-red {
