@@ -32,8 +32,8 @@ const data = google.visualization.arrayToDataTable([
 
 // Set Options
 const options = {
-  hAxis: {title: 'Square Meters'},
-  vAxis: {title: 'Price in Millions'},
+  hAxis: {title: 'Date'},
+  vAxis: {title: 'Follower Count'},
   legend: 'none'
 };
 
